@@ -1,9 +1,7 @@
 # personalpage
 ## Persönliche-Website-HTML+CSS+PHP
 -
-### für-den-Webprogrammierung-Kurs
--
-### bei
+### für-den-Webprogrammierung-Kurs-von
 -
 Ali-Khorsandfard
 DAA
