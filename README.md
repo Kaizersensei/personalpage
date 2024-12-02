@@ -1,12 +1,12 @@
 # personalpage
 ## Persönliche Website - HTML+CSS+PHP
 -
-### für den Webprogrammierung Kurs von
+# für den Webprogrammierung Kurs von
 -
-Ali Khorsandfard
-DAA
+## Ali Khorsandfard
+## DAA
 -
-Ein Projekt von
+# Ein Projekt von
 -
-Mateus Willmann da Silva
+## Mateus Willmann da Silva
 FISI / DAA Minden
