@@ -142,7 +142,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <video src="assets/mp4/okashira choke talk_comp.mp4" alt="..." width="66%" autoplay loop muted/>
+                                    <video src="assets/mp4/ninjutsu.mp4" alt="..." width="66%" autoplay loop muted/>
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
