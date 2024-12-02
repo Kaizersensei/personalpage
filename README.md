@@ -3,10 +3,10 @@
 -
 ### für den Webprogrammierung Kurs von
 -
-Ali-Khorsandfard
+Ali Khorsandfard
 DAA
 -
-Ein-Projekt-von
+Ein Projekt von
 -
-Mateus-Willmann-da-Silva
-FISI-/-DAA Minden
+Mateus Willmann da Silva
+FISI / DAA Minden
